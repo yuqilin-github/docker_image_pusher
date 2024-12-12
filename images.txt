@@ -5,6 +5,7 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #####################################################
+elastic/elasticsearch:8.5.2
 nginx
 photoprism/photoprism
 corentinth/it-tools
