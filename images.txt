@@ -6,6 +6,7 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #####################################################
 nginx
+photoprism/photoprism
 corentinth/it-tools
 nacos/nacos-server
 nacos/nacos-server:v2.1.1
