@@ -7,7 +7,7 @@
 #####################################################
 nginx
 corentinth/it-tools
-nacos-server
+nacos/nacos-server
 mysql
 ollama
 openjdk
