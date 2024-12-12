@@ -18,5 +18,5 @@ openjdk:17
 mongo:7.0.6
 mongo-express
 bitnami/minio
-elasticsearch
+#elasticsearch
 centos
