@@ -19,4 +19,5 @@ mongo:7.0.6
 mongo-express
 bitnami/minio
 centos
-elasticsearch
+elastic/elasticsearch
+elastic/elasticsearch:8.5.2
