@@ -34,6 +34,7 @@ zlmediakit/zlmediakit
 
 # 4 运维工具
 grafana/grafana
+jenkins/jenkins
 jenkins/agent
 jenkins/agent:jdk11
 restic/rest-server
