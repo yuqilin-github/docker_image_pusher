@@ -1,3 +1,5 @@
+ghcr.io/apache/camel-karavan:4.8.1
+ghcr.io/apache/camel-karavan-devmode:4.8.1
 ## 1 我使用的开源工具
 photoprism/photoprism
 containrrr/watchtower
@@ -28,8 +30,8 @@ provectuslabs/kafka-ui
 
 # 3 其他开源平台--工作
 # ipaas
-ghcr.io/apache/camel-karavan
-ghcr.io/apache/camel-karavan-devmode
+ghcr.io/apache/camel-karavan:4.8.1
+ghcr.io/apache/camel-karavan-devmode:4.8.1
 zlmediakit/zlmediakit
 
 # 4 运维工具
