@@ -1,26 +1,42 @@
-#nginx
-#支持私库
-#k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-#xhofe/alist:latest
-#支持指定架构
-#--platform=linux/arm64 xiaoyaliu/alist
-#####################################################
-
-nginx
+## 1 我使用的开源工具
 photoprism/photoprism
-mariadb:11
 containrrr/watchtower
 corentinth/it-tools
+ollama/ollama
+centos
+xhofe/alist
+
+## 2 常用中间件
+nginx
+mariadb:11
 nacos/nacos-server
 nacos/nacos-server:v2.1.1
 mysql:8.0.21
-ollama/ollama
 openjdk:8-jre
 openjdk:11-jre
 openjdk:17
+mongo
 mongo:7.0.6
 mongo-express
 bitnami/minio
-centos
 elastic/elasticsearch:8.5.2
+influxdb
+influxdb:1.8.3
+bitnami/kafka
+bitnami/kafka:3.4
+provectuslabs/kafka-ui
+
+# 3 其他开源平台--工作
+# ipaas
+ghcr.io/apache/camel-karavan
+ghcr.io/apache/camel-karavan-devmode
+zlmediakit/zlmediakit
+
+# 4 运维工具
+grafana/grafana
+jenkins/agent
+jenkins/agent:jdk11
+restic/rest-server
+louislam/uptime-kuma:1
+joinsunsoft/docker.ui
 
