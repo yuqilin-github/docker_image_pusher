@@ -1,4 +1,4 @@
-zlmediakit/zlmediakit:master
+louislam/uptime-kuma:1
 ## 1 我使用的开源工具
 photoprism/photoprism
 containrrr/watchtower
@@ -40,5 +40,6 @@ jenkins/agent
 jenkins/agent:jdk11
 restic/rest-server
 louislam/uptime-kuma:1
+louislam/uptime-kuma:2
 joinsunsoft/docker.ui
 
