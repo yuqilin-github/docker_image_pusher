@@ -1,4 +1,5 @@
-louislam/uptime-kuma:2.0.0-beta.0
+garethgeorge/backrest:v1.6.1
+restic/rest-server
 ## 1 我使用的开源工具
 photoprism/photoprism
 containrrr/watchtower
@@ -32,6 +33,8 @@ provectuslabs/kafka-ui
 ghcr.io/apache/camel-karavan:4.8.1
 ghcr.io/apache/camel-karavan-devmode:4.8.1
 zlmediakit/zlmediakit:master
+garethgeorge/backrest:v1.6.1
+restic/rest-server
 
 # 4 运维工具
 grafana/grafana
