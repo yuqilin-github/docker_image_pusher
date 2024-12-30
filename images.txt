@@ -1,5 +1,4 @@
-garethgeorge/backrest:v1.6.1
-restic/rest-server
+openjdk:17-jdk-bullseye
 ## 1 我使用的开源工具
 photoprism/photoprism
 containrrr/watchtower
@@ -17,6 +16,7 @@ mysql:8.0.21
 openjdk:8-jre
 openjdk:11-jre
 openjdk:17
+openjdk:17-jdk-bullseye
 mongo
 mongo:7.0.6
 mongo-express
