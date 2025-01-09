@@ -1,4 +1,4 @@
-openjdk:17-jdk-bullseye
+analogic/poste.io
 ## 1 我使用的开源工具
 photoprism/photoprism
 containrrr/watchtower
@@ -6,6 +6,7 @@ corentinth/it-tools
 ollama/ollama
 centos
 xhofe/alist
+analogic/poste.io
 
 ## 2 常用中间件
 nginx
