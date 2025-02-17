@@ -1,4 +1,4 @@
-analogic/poste.io
+ollama/ollama
 ## 1 我使用的开源工具
 photoprism/photoprism
 containrrr/watchtower
@@ -7,6 +7,7 @@ ollama/ollama
 centos
 xhofe/alist
 analogic/poste.io
+ollama/ollama
 
 ## 2 常用中间件
 nginx
