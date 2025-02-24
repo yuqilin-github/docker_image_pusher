@@ -1,4 +1,11 @@
-ollama/ollama
+lcomplete/huntly
+lx_server
+nextcloud
+wordpress
+rmountjoy/dashmachine
+nykma/leanote
+nykma/leanote-mongodb
+bitnami/prometheus
 ## 1 我使用的开源工具
 photoprism/photoprism
 containrrr/watchtower
@@ -8,6 +15,13 @@ centos
 xhofe/alist
 analogic/poste.io
 ollama/ollama
+lcomplete/huntly
+lx_server
+nextcloud
+wordpress
+rmountjoy/dashmachine
+nykma/leanote
+nykma/leanote-mongodb
 
 ## 2 常用中间件
 nginx
