@@ -3,7 +3,7 @@ photoprism/photoprism
 containrrr/watchtower
 corentinth/it-tools
 ollama/ollama
-centos
+# centos
 xhofe/alist
 analogic/poste.io
 ollama/ollama
