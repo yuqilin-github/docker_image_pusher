@@ -1,3 +1,4 @@
+nextcloud:24.0.5
 ## 1 我使用的开源工具
 photoprism/photoprism
 containrrr/watchtower
@@ -8,6 +9,7 @@ xhofe/alist
 analogic/poste.io
 ollama/ollama
 lcomplete/huntly
+nextcloud:24.0.5
 nextcloud
 wordpress
 rmountjoy/dashmachine
