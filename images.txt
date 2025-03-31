@@ -1,4 +1,4 @@
-nextcloud:24.0.5
+glanceapp/glance
 ## 1 我使用的开源工具
 photoprism/photoprism
 containrrr/watchtower
@@ -15,6 +15,7 @@ wordpress
 rmountjoy/dashmachine
 nykma/leanote
 nykma/leanote-mongodb
+glanceapp/glance
 
 ## 2 常用中间件
 nginx
