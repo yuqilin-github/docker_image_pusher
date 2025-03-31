@@ -1,4 +1,5 @@
 glanceapp/glance
+######## 阿里云地址registry.cn-beijing.aliyuncs.com/nsdockerhub/**
 ## 1 我使用的开源工具
 photoprism/photoprism
 containrrr/watchtower
