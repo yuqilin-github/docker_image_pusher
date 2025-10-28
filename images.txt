@@ -1,5 +1,12 @@
 ######## 阿里云地址registry.cn-beijing.aliyuncs.com/nsdockerhub/**
 nextcloud:25.0.13
+nextcloud:26.0.13
+nextcloud:27.1.11
+nextcloud:28.0.14
+nextcloud:29.0.16
+nextcloud:30.0.17
+nextcloud:31.0.10
+nextcloud:32.0.1
 ## 1 我使用的开源工具
 photoprism/photoprism
 containrrr/watchtower
