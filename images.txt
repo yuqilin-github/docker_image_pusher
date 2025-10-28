@@ -34,9 +34,9 @@ mongo-express
 elastic/elasticsearch:8.5.2
 influxdb
 influxdb:1.8.3
-bitnami/kafka
-bitnami/kafka:3.4
-provectuslabs/kafka-ui
+#bitnami/kafka
+#bitnami/kafka:3.4
+#provectuslabs/kafka-ui
 
 # 3 其他开源平台--工作
 # ipaas
