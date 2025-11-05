@@ -24,9 +24,12 @@ nacos/nacos-server
 nacos/nacos-server:v2.1.1
 mysql:8.0.21
 # openjdk:8-jre 镜像没了20251105
-openjdk:11-jre
-openjdk:17
-openjdk:17-jdk-bullseye
+# openjdk:11-jre
+# openjdk:17
+# openjdk:17-jdk-bullseye
+eclipse-temurin:8-jre
+eclipse-temurin:11-jre
+eclipse-temurin:17-jre
 mongo
 mongo:7.0.6
 mongo-express
