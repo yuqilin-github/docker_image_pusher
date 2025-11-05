@@ -23,7 +23,7 @@ mariadb:11
 nacos/nacos-server
 nacos/nacos-server:v2.1.1
 mysql:8.0.21
-openjdk:8-jre
+# openjdk:8-jre 镜像没了20251105
 openjdk:11-jre
 openjdk:17
 openjdk:17-jdk-bullseye
