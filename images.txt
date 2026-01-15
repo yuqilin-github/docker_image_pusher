@@ -1,5 +1,7 @@
 ######## 阿里云地址registry.cn-beijing.aliyuncs.com/nsdockerhub/**
-
+couchdb:3.3
+cozy/cozy-stack
+caddy:2.7
 ## 1 我使用的开源工具
 photoprism/photoprism
 containrrr/watchtower
@@ -16,7 +18,10 @@ rmountjoy/dashmachine
 nykma/leanote
 nykma/leanote-mongodb
 glanceapp/glance
-
+# cozy 网盘
+couchdb:3.3
+cozy/cozy-stack
+caddy:2.7
 ## 2 常用中间件
 nginx
 mariadb:11
