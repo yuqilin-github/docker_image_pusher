@@ -1,5 +1,6 @@
 ######## 阿里云地址registry.cn-beijing.aliyuncs.com/nsdockerhub/**
-
+nacos/nacos-server:v2.3.2
+xuxueli/xxl-job-admin:2.4.0
 ## 1 我使用的开源工具
 photoprism/photoprism
 containrrr/watchtower
@@ -25,6 +26,7 @@ nginx
 mariadb:11
 nacos/nacos-server
 nacos/nacos-server:v2.1.1
+
 mysql:8.0.21
 # openjdk:8-jre 镜像没了20251105
 # openjdk:11-jre
