@@ -1,6 +1,7 @@
 ######## 阿里云地址registry.cn-beijing.aliyuncs.com/nsdockerhub/**
 nacos/nacos-server:v2.3.2
 xuxueli/xxl-job-admin:2.4.0
+apache/rocketmq:4.8.0
 ## 1 我使用的开源工具
 photoprism/photoprism
 containrrr/watchtower
