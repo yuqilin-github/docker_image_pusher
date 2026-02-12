@@ -1,4 +1,5 @@
 ######## 阿里云地址registry.cn-beijing.aliyuncs.com/nsdockerhub/**
+redis:7.0.13
 apacherocketmq/rocketmq-dashboard:latest
 nacos/nacos-server:v2.3.2
 xuxueli/xxl-job-admin:2.4.0
