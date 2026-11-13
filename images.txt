@@ -1,10 +1,6 @@
 ######## 阿里云地址registry.cn-beijing.aliyuncs.com/nsdockerhub/**
-xuxueli/xxl-job-admin:3.4.2
-redis:7.0.13
-apacherocketmq/rocketmq-dashboard:latest
-nacos/nacos-server:v2.3.2
-xuxueli/xxl-job-admin:2.4.0
-apache/rocketmq:4.8.0
+t8y2/dbx
+
 ## 1 我使用的开源工具
 photoprism/photoprism
 containrrr/watchtower
@@ -25,6 +21,7 @@ glanceapp/glance
 couchdb:3.3
 cozy/cozy-stack
 caddy:2.7
+
 ## 2 常用中间件
 nginx
 mariadb:11
@@ -49,6 +46,12 @@ influxdb:1.8.3
 #bitnami/kafka
 #bitnami/kafka:3.4
 #provectuslabs/kafka-ui
+xuxueli/xxl-job-admin:3.4.2
+redis:7.0.13
+apacherocketmq/rocketmq-dashboard:latest
+nacos/nacos-server:v2.3.2
+xuxueli/xxl-job-admin:2.4.0
+apache/rocketmq:4.8.0
 
 # 3 其他开源平台--工作
 # ipaas
